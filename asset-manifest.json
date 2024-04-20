@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30fac76b.css",
+    "main.js": "/static/js/main.9fd7f3f1.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/spc.gif": "/static/media/spc.0673eb29ed9fadf63aec.gif",
+    "static/media/anti-addiction.gif": "/static/media/anti-addiction.4a1eda8871c2f5ab8e80.gif",
+    "static/media/ostrichforms.gif": "/static/media/ostrichforms.c84a820d490b5493126d.gif",
+    "static/media/vartalaap.gif": "/static/media/vartalaap.377fe4fd760e7666fe87.gif",
+    "static/media/sps single player.gif": "/static/media/sps single player.286ac74b1bf8daa14a4a.gif",
+    "static/media/bart-simpson-png-30 (3) (1).png": "/static/media/bart-simpson-png-30 (3) (1).6d198b6e78b8cdc29634.png",
+    "static/media/background3.gif": "/static/media/background3.e217950d004b67d96beb.gif",
+    "static/media/background2.gif": "/static/media/background2.94b725586f6fc13dec28.gif",
+    "static/media/bart-simpson-png-30 (3) (2).png": "/static/media/bart-simpson-png-30 (3) (2).ff6d6eaa474e0b76b7a9.png",
+    "static/media/background.gif": "/static/media/background.ce6bae065fa421929814.gif",
+    "static/media/background4.gif": "/static/media/background4.2448ba3d4b1bdd9d5af5.gif",
+    "static/media/background5.gif": "/static/media/background5.7ba3303686e63e66e584.gif",
+    "index.html": "/index.html",
+    "main.30fac76b.css.map": "/static/css/main.30fac76b.css.map",
+    "main.9fd7f3f1.js.map": "/static/js/main.9fd7f3f1.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30fac76b.css",
+    "static/js/main.9fd7f3f1.js"
+  ]
+}
